@@ -1,0 +1,5 @@
+{
+  "name": "DocuSense AI: Legal & Compliance Assistant",
+  "description": "A RAG-powered intelligent legal assistant that helps small business owners analyze contracts, NDAs, and compliance documents using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
